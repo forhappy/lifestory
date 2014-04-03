@@ -21,6 +21,16 @@
                 }
             },
             {
+                "startDate": "1989,10,1",
+                "headline": "一岁，还是一个圈圈",
+                "text": "<p>哎，肿么还是一个圈圈啊</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765406716.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            },
+            {
                 "startDate": "1990,1,1",
                 "headline": "两岁，在湖边",
                 "text": "<p>湖边的一个美女，婀娜多姿啊</p>",
@@ -72,7 +82,6 @@
             },
             {
                 "startDate": "2008,8,16",
-                "endDate": "2008,10,14",
                 "headline": "与亲爱的小伙伴一起",
                 "text": "<p>每个人都会有几个至亲的小伙伴，看，右边是我的小伙伴，胖不胖？</p>",
                 "asset": {
@@ -82,24 +91,134 @@
                 }
             },
             {
-                "startDate": "2012,1,26",
-                "endDate": "2012,1,27",
-                "headline": "Sh*t Politicians Say",
-                "text": "<p>In true political fashion, his character rattles off common jargon heard from people running for office.</p>",
+                "startDate": "2008,8,20",
+                "headline": "与亲爱的小伙伴一起",
+                "text": "<p>每个人都会有几个至亲的小伙伴，看，这回左边是我的小伙伴，还是很胖吧？</p>",
                 "asset": {
-                    "media": "http://youtu.be/u4XpeU9erbg",
-                    "credit": "",
-                    "caption": ""
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765451255.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，我和小伙伴冰冰同学"
                 }
             },
             {
-                "startDate": "2012,1,10",
-                "headline": "Sh*t Nobody Says",
-                "text": "<p>Have you ever heard someone say “can I burn a copy of your Nickelback CD?” or “my Bazooka gum still has flavor!” Nobody says that.</p>",
+                "startDate": "2008,8,25",
+                "headline": "哈哈，大美女",
+                "text": "<p>犹抱琵琶半遮面，害羞啥啊</p>",
                 "asset": {
-                    "media": "http://youtu.be/f-x8t0JOnVw",
-                    "credit": "",
-                    "caption": ""
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765455146.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2008,8,70",
+                "headline": "美女与猪",
+                "text": "<p>美女，放开那头猪，有什么事冲着我来！！！</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765466739.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2009,10,6",
+                "headline": "去爬山，到山顶了",
+                "text": "<p>风景不错哦</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/large_AaK7_13936j204234.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2012,1,1",
+                "headline": "调皮的侄女",
+                "text": "<p>调皮的侄女</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391276273135.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2012,1,1",
+                "headline": "调皮的侄女-续",
+                "text": "<p>调皮的侄女-续</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391276284497.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2012,2,1",
+                "headline": "女汉纸也有清纯的一面",
+                "text": "<p>谁说我是女汉纸我跟他急！</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765422066.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2012,2,6",
+                "headline": "树藤下的美女",
+                "text": "<p>树藤下的美女哇(再一次印证了咱不是女汉纸)！</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765417926.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2012,9,9",
+                "headline": "和大伙儿去烧烤，好贤惠",
+                "text": "<p>注意点，鱼好像糊了</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/2012-9-9.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2013,10,6",
+                "headline": "自拍",
+                "text": "<p>我会告诉你这是在厕所自拍的嘛？！</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765919563.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2013,1,6",
+                "headline": "逛街",
+                "text": "<p>随便逛逛吧！</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765923371.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
+                }
+            },
+            {
+                "startDate": "2014,3,26",
+                "headline": "香锅香锅",
+                "text": "<p>吃相不难看嘛</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/IMG1880.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，农大食堂三楼"
+                }
+            },
+            {
+                "startDate": "2014,3,26",
+                "endDate": "2100,1,1"
+                "headline": "故事才刚刚开始。。。",
+                "text": "<p>让时间成为我们的月老，慢慢见证我们的爱情吧（图片会不会很2啊，溜）</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/f2dfe1e622b6d7926b921560535f4a74.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "，"
                 }
             }
         ]
