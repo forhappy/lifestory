@@ -1,4 +1,4 @@
 lifestory
 =========
 
-Life story with somenoe
+Life story with someone
