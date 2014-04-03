@@ -11,7 +11,7 @@
         },
         "date": [
             {
-                "startDate": "1990,1,1",
+                "startDate": "1989,1,1",
                 "headline": "一岁，还在摇篮里",
                 "text": "<p>哎哟，胖成了一个圈圈啊</p>",
                 "asset": {
@@ -22,10 +22,40 @@
             },
             {
                 "startDate": "1990,1,1",
-                "headline": "三岁，武大",
+                "headline": "两岁，在湖边",
+                "text": "<p>湖边的一个美女，婀娜多姿啊</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765401882.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "1990,1,1",
+                "headline": "还是两岁，武大",
                 "text": "<p>小时候去武大逛校园，后来就成了女博士啦，冥冥之中注定了的 ^-^</p>",
                 "asset": {
                     "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391765410650.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "1991,1,1",
+                "headline": "三岁，美女初长成",
+                "text": "<p>吾家有女初长成 ^-^</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391609325582.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "1991,1,1",
+                "headline": "三岁，美女初长成",
+                "text": "<p>吾家有女初长成 ^-^</p>",
+                "asset": {
+                    "media": "https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/mmexport1391609325582.jpg",
                     "credit": "copyright by forhappy",
                     "caption": ""
                 }
