@@ -3,17 +3,22 @@
     {
         "headline":"生日快乐",
         "type":"default",
-		"text":"亲爱的欣欣同学，不知不觉已经今年已经是第八个十八岁了，生日快乐",
+		"text":"亲爱的不知不觉已经今年已经是第八个十八岁了，生日快乐",
 		"startDate":"2014,4,3",
+		"asset": {
+            "media":"https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/2010-6-6.jpg",
+            "credit":"copyright by forhappy",
+            "caption":"侧脸清纯照"
+        },
         "date": [
             {
                 "startDate":"2008,8,14",
-				"endDate":"2012,1,27",
+				"endDate":"2008,10,14",
                 "headline":"人生第一次去实习",
                 "text":"<p>人生第一次去实习，从此和猪结下了不解之缘，慢慢就爱上猪了</p>",
                 "asset":
                 {
-                    "media":"https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/2008-8-14-1.jpg",
+                    "media":"https://raw.githubusercontent.com/forhappy/lifestory/gh-pages/images/2008-8-14.jpg",
                     "credit":"",
                     "caption":""
                 }
